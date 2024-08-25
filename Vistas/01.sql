@@ -10,7 +10,7 @@ SELECT
 FROM 
     Cancelacion ca
 JOIN 
-    Cliente c ON ca.cod_usuario = c.cod_usuario
+    Cliente c ON ca.cod_cliente = c.cod_cliente
 JOIN 
     Tipo_suscripcion ts ON ca.cod_tipo_suscripcion = ts.cod_tipo_suscripcion
 JOIN 
