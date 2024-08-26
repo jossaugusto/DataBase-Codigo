@@ -9,3 +9,4 @@ INSERT INTO Calificaciones VALUES('C07', 'P0007', 'U00007', '2024-08-07', 'Regul
 INSERT INTO Calificaciones VALUES('C08', 'P0008', 'U00008', '2024-08-08', 'Mala')
 INSERT INTO Calificaciones VALUES('C09', 'P0009', 'U00009', '2024-08-09', 'Excelente')
 INSERT INTO Calificaciones VALUES('C10', 'P0010', 'U00010', '2024-08-10', 'Buena')
+GO
