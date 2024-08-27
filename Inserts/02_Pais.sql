@@ -1,13 +1,13 @@
-select * from pais
+SELECT * FROM pais
 
-insert into pais values ('0001','Peru')
-insert into pais values ('0002','Argentina')
-insert into pais values ('0003','Brasil')
-insert into pais values ('0004','España')
-insert into pais values ('0005','Estados Unidos')
-insert into pais values ('0006','Uruguay')
-insert into pais values ('0007','Mexico')
-insert into pais values ('0008','Canada')
-insert into pais values ('0009','Colombia')
-insert into pais values ('0010','Alemania')
-go
+INSERT INTO pais VALUES ('0001','Peru')
+INSERT INTO pais VALUES ('0002','Argentina')
+INSERT INTO pais VALUES ('0003','Brasil')
+INSERT INTO pais VALUES ('0004','España')
+INSERT INTO pais VALUES ('0005','Estados Unidos')
+INSERT INTO pais VALUES ('0006','Uruguay')
+INSERT INTO pais VALUES ('0007','Mexico')
+INSERT INTO pais VALUES ('0008','Canada')
+INSERT INTO pais VALUES ('0009','Colombia')
+INSERT INTO pais VALUES ('0010','Alemania')
+GO

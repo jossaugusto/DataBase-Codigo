@@ -1,7 +1,7 @@
-select * from FormaPago
- 
- insert into FormaPago values('001','tarjeta')
- insert into FormaPago values('002','efectivo')
- insert into FormaPago values('003','paypal')
- insert into FormaPago values('004','pago efectivo')
- go
+SELECT * FROM FormaPago
+
+ INSERT INTO FormaPago VALUES('001','tarjeta')
+ INSERT INTO FormaPago VALUES('002','efectivo')
+ INSERT INTO FormaPago VALUES('003','paypal')
+ INSERT INTO FormaPago VALUES('004','pago efectivo')
+ GO
