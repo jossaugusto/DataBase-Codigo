@@ -1,5 +1,5 @@
 --vista 5 
---para ver los clientes ah que pais pertenecen y que peliculas an visto--
+--Ver su pais de origen del cliente y las peliculas que a visto
 CREATE OR ALTER view clientes_pais AS 
 SELECT
 cli.nombre_cliente AS 'cliente',

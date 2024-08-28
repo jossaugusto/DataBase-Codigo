@@ -1,5 +1,5 @@
------------------------------------------------------------------procedimiento 7----------------------------------------------------------------
-------------------------eliminar un cliente ------------------------------------------
+--Procedimiento 7
+--Eliminar un cliente
 
 CREATE OR ALTER PROCEDURE SP_Borrar_CLi
 (@cod_cliente CHAR(6))

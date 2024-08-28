@@ -1,5 +1,5 @@
 -------vista3------
---valoraciones por pelicula
+--Ver valoraciones de las peliculas
 CREATE OR ALTER  view peliculas_valoraciones AS
 SELECT
 p.titulo_peli, p.valoracion_peli,

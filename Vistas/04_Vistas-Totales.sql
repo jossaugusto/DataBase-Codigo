@@ -1,5 +1,5 @@
 --vista 4
---popularidad de de vistas peliculas por categoria
+--Ver vistas totales de cada pelicula
 CREATE OR ALTER view Vistas_Totales AS
 SELECT 
 cat.nombre_categ AS categoría,

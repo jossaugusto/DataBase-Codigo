@@ -1,5 +1,6 @@
-------Procedimiento 3-----------------------------------------------------------
---procedimiento para eliminar una pelicula repetida---------------------------------------------------------
+--Procedimiento 3
+--Procedimiento para eliminar una pelicula
+
 CREATE OR ALTER PROCEDURE  SP_Eliminar_peli @id_pelicula CHAR(5)
 AS
 BEGIN

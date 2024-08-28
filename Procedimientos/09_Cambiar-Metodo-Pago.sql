@@ -1,5 +1,5 @@
---------------------------------------------------------------------procedimiento 9------------------------------------------------------------------------------------
-----------------------------para cambiar el metodo de pago.--------------------
+--Procedimiento 9
+--Para cambiar el metodo de pago
 
 CREATE OR ALTER PROCEDURE SP_Cambiar_metodo_pago
 (@cod_form_pago CHAR(3),@tipo_pag VARCHAR(20))

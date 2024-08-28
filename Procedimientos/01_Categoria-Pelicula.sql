@@ -1,4 +1,5 @@
-----------------------PROCEDIMIENTO 1
+--PROCEDIMIENTO 1
+--Buscar pelicula por categoria
 
 CREATE OR ALTER PROCEDURE SP_Categoria_pelicula @nombre_categ VARCHAR(15)
 AS

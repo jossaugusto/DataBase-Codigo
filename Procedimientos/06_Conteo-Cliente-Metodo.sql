@@ -1,5 +1,5 @@
------------------------------PROCEDIMIENTO 6
-------------CALCULAR LOS CLIENTES QUE TIENE UN METODO DE PAGO------------------------------------------------------------
+--PROCEDIMIENTO 6
+--Calcular clientes que tienen un metodo de pago
 
 CREATE OR ALTER PROCEDURE  SP_Conteo_cliente_metodo
 AS

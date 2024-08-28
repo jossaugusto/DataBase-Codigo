@@ -1,5 +1,5 @@
-----------------------------------------------procedimiento10-----------------------------------------------------------------
----------------------------registrar una nueva factura de cliente----------------------------
+--Procedimiento 10
+--Registrar una nueva factura de cliente
 
 CREATE OR ALTER PROCEDURE SP_Registrar_Factura
 ( @nro_fact CHAR(6), @fech_fact DATE, @cod_tipo_suscripcion CHAR(3),@cod_form_pago CHAR(3), @cod_cliente CHAR(6))

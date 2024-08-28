@@ -1,5 +1,5 @@
 --Vista 1
---vista de detalles de cancelaciones
+--vista para ver los detalles de cancelacion
 CREATE  OR ALTER view  Vista_Cancelaciones_Detalles AS
 SELECT
 ca.nro_cancelacion AS 'Numero cancelacion',

@@ -1,5 +1,5 @@
------------------------------------------------------------procedimiento 8------------------------------------------------------------------------------------
-----------------------cambiar la categoria de una pelicula existente
+--Procedimiento 8
+--Cambiar la categoria de una pelicula existente
 CREATE OR ALTER PROCEDURE SP_Cambiar_Categoria_Pelicula
 (@id_categoria CHAR(5),@id_pelicula CHAR(5),@nombre_categ VARCHAR(15))
 AS

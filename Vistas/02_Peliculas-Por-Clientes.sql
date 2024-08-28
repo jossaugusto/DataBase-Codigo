@@ -1,5 +1,5 @@
 --vista2------------
---peliculas vistas por cliente
+--Peliculas vistas por cliente
 Create  OR ALTER view peliculas_por_cliente AS
 SELECT
 c.cod_cliente AS 'Cliente',

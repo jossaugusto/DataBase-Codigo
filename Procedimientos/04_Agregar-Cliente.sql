@@ -1,5 +1,5 @@
-----PROCEDIMIENTO4-------------------------------------------------------------------------
---Procedimiento para agregar mas clientes-----------------------------------------------------
+--PROCEDIMIENTO 4
+--Procedimiento para agregar mas clientes
 
 CREATE OR ALTER PROCEDURE SP_Agregar_Cliente
 (@cod_cliente CHAR(6),@cod_contrasena CHAR(5),@nombre_cliente VARCHAR(15), @apellido_cliente VARCHAR(20), @fch_nac DATE,
